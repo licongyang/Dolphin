@@ -41,7 +41,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cache.annotation.EnableCaching;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
-
+//-Dlogging.config=classpath:logback-spring.xml -Ddruid.mysql.usePingMethod=false -Dspring.profiles.active=mysql -DDOCKER=true
 @SpringBootApplication
 @ComponentScan("org.apache.dolphinscheduler")
 @EnableTransactionManagement

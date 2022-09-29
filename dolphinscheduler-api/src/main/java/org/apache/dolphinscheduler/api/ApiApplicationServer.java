@@ -26,7 +26,7 @@ import org.springframework.boot.context.event.ApplicationReadyEvent;
 import org.springframework.boot.web.servlet.ServletComponentScan;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.event.EventListener;
-
+//-Dspring.profiles.active=mysql -Dlogging.config=classpath:logback-spring.xml
 @ServletComponentScan
 @SpringBootApplication
 @ComponentScan("org.apache.dolphinscheduler")

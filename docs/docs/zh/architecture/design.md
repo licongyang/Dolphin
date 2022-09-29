@@ -3,14 +3,16 @@
 ## 系统架构
 
 ### 系统架构图
+![](../../../img/architecture-1.3.0.jpg)
 <p align="center">
   <img src="../../../img/architecture-1.3.0.jpg" alt="系统架构图"  width="70%" />
   <p align="center">
         <em>系统架构图</em>
   </p>
 </p>
-
 ### 启动流程活动图
+
+![](../../../img/process-start-flow-1.3.0.png)
 <p align="center">
   <img src="../../../img/process-start-flow-1.3.0.png" alt="启动流程活动图"  width="70%" />
   <p align="center">
